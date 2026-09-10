@@ -7,7 +7,7 @@
 <div align="center">
   <img width="216" height="384" alt="Conditioned_BNN" src="https://github.com/user-attachments/assets/9b56e7f1-da9d-4d68-a461-f55cb703b718" />
   <br />
-  <em>Figure 1: Overview of the Intent-Conditioned Deep Beamforming framework.</em>
+  <em>Figure 1: Imaging Objective Sweep Demo on PICMUS Experimental Resolution Data.</em>
 </div>
 
 ## Overview
