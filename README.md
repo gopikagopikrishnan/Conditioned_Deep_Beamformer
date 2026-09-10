@@ -4,7 +4,7 @@
 [![GPU Acceleration: CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
 <div align="center">
-  <img width="1080" height="1920" alt="Conditioned_BNN" src="https://github.com/user-attachments/assets/9b56e7f1-da9d-4d68-a461-f55cb703b718" />
+  <img width="216" height="384" alt="Conditioned_BNN" src="https://github.com/user-attachments/assets/9b56e7f1-da9d-4d68-a461-f55cb703b718" />
 </div>
 
 
