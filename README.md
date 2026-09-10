@@ -11,7 +11,7 @@
 </div>
 
 ## Overview
-This repository contains the official implementation for the paper **"Intent-Conditioned Deep Beamforming for Ultrasound: A Physically Grounded Resolution–Contrast Control"** (submitted to *IEEE TMI*).
+This repository contains the demo implementation for the paper **"Physics-Grounded Objective-Conditioned Deep Beamforming for Adaptive Resolution-Contrast Control in Plane-Wave Ultrasound Imaging"** (submitted to *IEEE TMI*).
 
 * **Core Mechanism:** A single neural network predicts per-element receive apodization from single-plane-wave channel data.
 * **Dynamic Control:** Conditioned on an intent vector $\mathbf{q}$, users can select a resolution- or contrast-optimized reconstruction on the fly.
@@ -21,10 +21,10 @@ This repository contains the official implementation for the paper **"Intent-Con
 
 ---
 
-## Quick Start (2-Minute Demo)
+## Quick Start (Demo)
 Run the self-contained demo notebook to see the model in action without downloading massive datasets:
 
-* **File:** `notebooks/tunability_demo.ipynb`
+* **File:** `tunability_demo.ipynb`
 * **What it does:** Sweeps the intent knob $\mathbf{q} = [1-t, t]$ from $t=0$ to $t=1$ on the bundled PICMUS experimental resolution phantom (~3 MB).
 * **Output:** Generates live plots of lateral Full Width at Half Maximum (FWHM) against the tuning parameter $t$.
 * **Requirements:** No training or full dataset downloads required.
