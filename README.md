@@ -3,9 +3,9 @@
 [![Framework: PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![GPU Acceleration: CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
-
-
-https://github.com/user-attachments/assets/def861c2-d4cb-4930-b987-62c6c5aefaf1
+<div align="center">
+  <img width="1080" height="1920" alt="Conditioned_BNN" src="https://github.com/user-attachments/assets/9b56e7f1-da9d-4d68-a461-f55cb703b718" />
+</div>
 
 
 ---
