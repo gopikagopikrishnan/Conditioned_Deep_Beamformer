@@ -11,7 +11,7 @@
 </div>
 
 ## Overview
-This repository contains the demo implementation for the paper **"Physics-Grounded Objective-Conditioned Deep Beamforming for Adaptive Resolution-Contrast Control in Plane-Wave Ultrasound Imaging"** (submitted to *IEEE TMI*).
+This repository contains the demo implementation for the paper **"Physics-Grounded Objective-Conditioned Deep Beamforming for Adaptive Resolution-Contrast Control in Plane-Wave Ultrasound Imaging"** (paper currently under review in *IEEE Transactions on Medical Imaging (TMI)*).
 
 * **Core Mechanism:** A single neural network predicts per-element receive apodization from single-plane-wave channel data.
 * **Dynamic Control:** Conditioned on an intent vector $\mathbf{q}$, users can select a resolution- or contrast-optimized reconstruction on the fly.
